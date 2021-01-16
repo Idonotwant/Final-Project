@@ -12,7 +12,7 @@ pygame 2.0.1
 
 ## reproduce:
 
-download dir: trying
+download 'dir': trying
 
 click main.py   or python main.py
 
