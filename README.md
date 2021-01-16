@@ -20,6 +20,6 @@ click main.py   or python main.py
 
 在進入銀行時，輸入金額要用鍵盤上方的數字鍵，不能用右邊的數字鍵盤
 
-" backspace " 刪除  enter 確定(也是只能用左邊的enter)
+backspace 刪除  enter 確定(也是只能用左邊的enter)
 
 如果沒有要存錢或提款，先隨便按yes或no，再按enter即可
