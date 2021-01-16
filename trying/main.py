@@ -979,7 +979,7 @@ def main():
     soundwav=pygame.mixer.Sound("sound2.mp3")
     soundwav.play(-1)
     #圖片來源start
-    backgroundpath = "./pictures/background."
+    backgroundpath = "./pictures/background.png"
     yespath        = "./pictures/yes.jpg"
     nopath         = "./pictures/no.jpg"
     exitpath       = "./pictures/exit.png"
