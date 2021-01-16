@@ -1,22 +1,22 @@
 # Final-Project
 
-##簡介:
+## 簡介:
 
 以台大為底圖的大富翁
 
-##environment:
+## environment:
 
 Python 3.7.2
 
 pygame 2.0.1
 
-##reproduce:
+## reproduce:
 
 download dir: trying
 
 click main.py   or python main.py
 
-##note:
+## note:
 
 在進入銀行時，輸入金額要用鍵盤上方的數字鍵，不能用右邊的數字鍵盤
 
